@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MainTestt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MainTestt_jar</output-path>
+    <root id="archive" name="MainTestt.jar">
+      <element id="module-output" name="MainTestt.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/21.0.5/c9c1cf2d52bc7dd7b20dab3157963f8aaaf38e47/javafx-base-21.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/21.0.5/350837836014091df30d45dd67c89122ad385439/javafx-graphics-21.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/21.0.5/be70cdbaba4dd1ff78a570eada78affbbff0a45b/javafx-base-21.0.5-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/21.0.5/dd93d33052d0d5e0256cf3658fc6a2e2755d1f9b/javafx-fxml-21.0.5-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/21.0.5/fba5769f62c2b503924b4f131adeaf818c403f4e/javafx-controls-21.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/21.0.5/b0ec9e085b2e0196278905388e865119263736df/javafx-controls-21.0.5-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/21.0.5/fff3d317e9e5ef3eda055bf3624720b5c5f4ed49/javafx-graphics-21.0.5-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.20.0/eb2a9a47b1396e00b5eee1264296729a70565cc0/log4j-core-2.20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.20.0/1fe6082e660daf07c689a89c94dc0f49c26b44bb/log4j-api-2.20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/21.0.5/7df31cb4c6fc509ceb28efa26bafe5436fb84653/javafx-fxml-21.0.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
